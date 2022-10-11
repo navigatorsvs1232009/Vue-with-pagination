@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <v-table
-        :users_data="USERS"
+        
       
 />
 
